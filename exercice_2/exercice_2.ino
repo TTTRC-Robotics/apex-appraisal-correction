@@ -14,3 +14,8 @@ void do_nothing(){
   // return a void
 
 }
+
+int multiplication(int number, int factor){
+  // this function will simply return the multiplication of both parameters
+  return number * factor;
+}
