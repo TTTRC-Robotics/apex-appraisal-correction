@@ -19,3 +19,8 @@ int multiplication(int number, int factor){
   // this function will simply return the multiplication of both parameters
   return number * factor;
 }
+
+int substraction(int number, int decrement){
+  // this function will simply return the substraction of both parameters
+  return number - decrement;
+}
