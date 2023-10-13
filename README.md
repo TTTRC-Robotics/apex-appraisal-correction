@@ -84,6 +84,8 @@ Correction of [exercice_1](https://github.com/TTTRC-Robotics/apex-appraisal-corr
 ### Exercice 2 - Create a function
 Go to [exercice_2](exercice_2)
 
+Correction of [exercice_2](https://github.com/TTTRC-Robotics/apex-appraisal-correction/pull/3)
+Commando given for [exercice_2](https://github.com/TTTRC-Robotics/apex-appraisal-correction/issues/2)
 
 
 ### Exercice 3 - Explain some code
