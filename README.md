@@ -97,8 +97,8 @@ Commando given for [exercice_3](https://github.com/TTTRC-Robotics/apex-appraisal
 ### Exercice 4 - Generate a Arduino Code from zero
 Go to [exercice_4](exercice_4)
 
-Correction of [exercice_3](https://github.com/TTTRC-Robotics/apex-appraisal-correction/pull/5)
-Commando given for [exercice_3](https://github.com/TTTRC-Robotics/apex-appraisal-correction/issues/4)
+Correction of [exercice_4](https://github.com/TTTRC-Robotics/apex-appraisal-correction/pull/7)
+Commando given for [exercice_4](https://github.com/TTTRC-Robotics/apex-appraisal-correction/issues/6)
 
 ## Test track run
 
