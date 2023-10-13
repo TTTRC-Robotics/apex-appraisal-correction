@@ -90,8 +90,15 @@ Commando given for [exercice_2](https://github.com/TTTRC-Robotics/apex-appraisal
 
 ### Exercice 3 - Explain some code
 Go to [exercice_3](exercice_3)
+
+Correction of [exercice_3](https://github.com/TTTRC-Robotics/apex-appraisal-correction/pull/5)
+Commando given for [exercice_3](https://github.com/TTTRC-Robotics/apex-appraisal-correction/issues/4)
+
 ### Exercice 4 - Generate a Arduino Code from zero
 Go to [exercice_4](exercice_4)
+
+Correction of [exercice_3](https://github.com/TTTRC-Robotics/apex-appraisal-correction/pull/5)
+Commando given for [exercice_3](https://github.com/TTTRC-Robotics/apex-appraisal-correction/issues/4)
 
 ## Test track run
 
