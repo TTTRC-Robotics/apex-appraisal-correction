@@ -78,8 +78,14 @@ gh repo clone TTTRC-Robotics/<your-appraisal-repo> # note this one is unique for
 
 ### Exercice 1 - Use the command line tool
 Go to [exercice_1](exercice_1)
+
+Correction of [exercice_1](https://github.com/TTTRC-Robotics/apex-appraisal-correction/issues/1)
+
 ### Exercice 2 - Create a function
 Go to [exercice_2](exercice_2)
+
+
+
 ### Exercice 3 - Explain some code
 Go to [exercice_3](exercice_3)
 ### Exercice 4 - Generate a Arduino Code from zero
